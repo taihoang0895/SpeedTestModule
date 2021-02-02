@@ -1,0 +1,3 @@
+include ':jspeedtest'
+include ':app'
+rootProject.name = "SpeedTestModule"
